@@ -1,8 +1,8 @@
 # I'm not finished it yet. ;-) 
 # This is Abridged version.
 # Now I'm making Full version.
-# Because it was written in Notepad, no tabs were used. (but there will be a full version, and the full version will be written in vs Code)
-******************************************************************************Dividing line**************************************************************************************
+# Because it was written in Notepad, no tabs were used. (but there will be a full version, and the full version will be written in VS Code)
+************************************************************Dividing line**********************************************************************
 @echo off
 echo Welcome to utau audio export script.
 ping -n 5 127.1>nul
