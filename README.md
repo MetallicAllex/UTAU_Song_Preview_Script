@@ -1,3 +1,4 @@
+# Tip:This scirpt was STOPPED making.
 # UTAU_Song_Preview_Script
 This is a script for outputting and previewing the voice synthesis software of [UTAU - 歌声合成ツール (Windows Ver)](https://utau-synth.com).  
 I'm not finished it yet.
